@@ -1,0 +1,1 @@
+- Machine learning model for the binary classification of fetal status as normal or abnormal, utilizing 21 features derived from Fetal Heart Rate tracings.
